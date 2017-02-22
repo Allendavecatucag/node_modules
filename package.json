@@ -1,15 +1,24 @@
 {
   "name": "Catucag-022217",
   "version": "1.0.0",
-  "description": "",
+  "description": "-Web Dev't Boilerplate using Express\r +Web Dev't Boilerplate Setup using Express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allendavecatucag/node_modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Allendavecatucag/node_modules/issues"
+  },
+  "homepage": "https://github.com/Allendavecatucag/node_modules#readme"
 }
